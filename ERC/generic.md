@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: About Us
+description: Get to know about us in detail
+image: https://s3.amazonaws.com/riqdev/images/uploads/ckimages/images/aboutusbanner4_5af19920e8e57.jpg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+<img src="https://i.pinimg.com/originals/f8/1c/f7/f81cf74d6c5b7846346d27b88c751615.jpg">
+The electronics and Robotics Club of BITS Goa comprises fitness freaks to foodies, bookworms to non ghots all having the same interest, the love for robotics.
+Contrary to the name, ERC welcomes not just electronics lovers but is a haven for mechanical and coding enthusiasts. Juniors work under the guidance of able team leaders along with a wide range of advanced lab equipment like 3D printers, plasma cutters, PCB milling machines and laser cutter, which enables the club not just to participate in several technical competitions held across the country but also to churn out numerous projects each year. However ERC's major highlight is undoubtedly the Quark Display Project. From projects like the Osaka clock, a 100*100*100 LED cube, a giant LED globe, ERC aims to go bigger and better every year.

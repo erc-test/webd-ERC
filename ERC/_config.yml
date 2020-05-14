@@ -1,6 +1,6 @@
 # site settings
 title: ERC
-subtitle: 
+subtitle: hi
 email: youremailaddress@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog

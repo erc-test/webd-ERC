@@ -20,17 +20,20 @@ nav-menu: true
 
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>head 1</h3>
-		<p>stuff.</p>
+		<h3>Atharv Sonwane </h3>
+		<p>Chief Coordinator</p>
+		<img src="t.jpeg" alt="atharv is asleep come back later" width="300" height= "500">
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>head 2</h3>
-		<p>asdas.</p>
+		<h3>Tanmay Bhonsale</h3>
+		<p>Research Head</p>
+		<img src="tanmay.jpeg" alt="tanmay is asleep come back later" width="300" height= "500">
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>head 3</h3>
-		<p>;asmd;</p>
+		<h3>Vedant Shah</h3>
+		<p>CTE Head</p>
+		<img src="vedant.jpg" alt="vedant is asleep come back later" width="300" height= "500">
 	
 </div>
 

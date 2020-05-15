@@ -1,11 +1,13 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'HELLO!! WELCOME TO ERC'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+We at ERC believe that everything that we do should be shared with everyone that we can. Acting upon this belief, we share with you a link to all our resources. This include technical papers, white papers, link to GitHub repositories and much more. We encourage you to have a look at it. You will surely find something useful and interesting!
+
+Click <a href="https://drive.google.com/open?id=1UWH5wGML_0DUka5HIniH0CiyZShqLC3W" >here</a> to access our resources

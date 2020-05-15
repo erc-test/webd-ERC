@@ -3,10 +3,13 @@ layout: home
 title: Home
 landing-title: 'HELLO!! WELCOME TO ERC'
 description: null
-image: null
+image:  
 author: null
 show_tile: false
 ---
+<div class=image stlye align="centre">
+<img align="middle" src="https://lh3.googleusercontent.com/proxy/Zx3hGr5oRW9EiP1BpziRqIxuGGi_IAFgBx51vDYcEim9lj5QPWnxMVXCyAIQowKMoPCncOvZzXLnPTMoAqJV4HuYF0ZSBoB-xLhkwMxmveQEJbnDp_k9jVnq">
+</div>
 
 We at ERC believe that everything that we do should be shared with everyone that we can. Acting upon this belief, we share with you a link to all our resources. This include technical papers, white papers, link to GitHub repositories and much more. We encourage you to have a look at it. You will surely find something useful and interesting!
 

@@ -2,7 +2,7 @@
 title: PROJECTS
 layout: landing
 description: 'Check out some of our previous work:-'
-image: assets/images/pic07.jpg
+image: led.jpg
 nav-menu: true
 ---
 

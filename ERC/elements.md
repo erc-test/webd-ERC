@@ -2,6 +2,7 @@
 layout: page
 title: Team
 description: 'Get to know our team'
+image: gp.jpeg
 nav-menu: true
 ---
 
@@ -22,7 +23,7 @@ nav-menu: true
 	<div class="6u 12u$(small)">
 		<h3>Atharv Sonwane </h3>
 		<p>Chief Coordinator</p>
-		<img src="t.jpeg" alt="atharv is asleep come back later" width="300" height= "500">
+		<img src="at.jpg" alt="atharv is asleep come back later" width="300" height= "500">
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Tanmay Bhonsale</h3>

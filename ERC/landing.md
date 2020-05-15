@@ -85,7 +85,7 @@ nav-menu: true
 				The globe consisted of 2, 75 cm radius acrylic semicircular discs having LEDs along the perimeter of one of them. This setup was mounted vertically on a aluminium frame. The setup would be rotated using a high torque motor. The synchronised firing of LEDs created the illusion of an image.The programming that was involved allowed one to take any any image from the internet, divide it into a number of segments which the code could recognize and thus program the LEDs in that manner.
 				</p>
 				<ul class="actions">
-					<li><a href="https://github.com/rmvanarse/modbot2" class="button">Insert github link </a></li>
+					<li><a href="" class="button">Insert github link </a></li>
 				</ul>
 			</div>
 		</div>

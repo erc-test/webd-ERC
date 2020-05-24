@@ -12,7 +12,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://github.com/ERC-BPGC/Trotbot" class="image">
 			<img src="trotbot.jpeg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -33,7 +33,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://github.com/MohitGupta007/Quadruped_BPGC" class="image">
 			<img src="quad.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -53,7 +53,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://github.com/rmvanarse/modbot2" class="image">
 			<img src="mod.jpeg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -72,7 +72,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://github.com/ERC-BPGC" class="image">
 			<img src="led.jpeg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -83,13 +83,46 @@ nav-menu: true
 				<p>Team Lead: Mohit Gupta <br>
 				LED Globe was the flagship display project from ERC for Quark 2019, the technical fest of BITS-Goa.
 				The globe consisted of 2, 75 cm radius acrylic semicircular discs having LEDs along the perimeter of one of them. This setup was mounted vertically on a aluminium frame. The setup would be rotated using a high torque motor. The synchronised firing of LEDs created the illusion of an image.The programming that was involved allowed one to take any any image from the internet, divide it into a number of segments which the code could recognize and thus program the LEDs in that manner.
-				</p>
-				
+				</p>	
 			</div>
 		</div>
 	</section>
+<section>
+		<a href="https://github.com/ERC-BPGC/Sketcher" class="image">
+			<img src="sketch.jpeg" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Sketcher</h3>
+				</header>
+				<p>Team Lead: Atharva Sonwane<br>
+				Sketcher was one of the projects displayed in Quark 2020 by the Electronics and Robotics Club, BITS Goa. It is basically a full-scale prototype of a polargraph supporting multiple drawing styles such as stipples, Travelling Salesperson (implementation of the travelling salesperson problem to draw images), D2S,etc.
+				<ul class="actions">
+					<li><a href="https://github.com/ERC-BPGC/Sketcher" class="button">GitHub Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+<!--
+	<section>
+		<a href="https://github.com/ERC-BPGC/LED-Octapad" class="image">
+			<img src="quad.png" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>LED Octapad</h3>
+				</header>
+				<p>Team Lead: Abhishek Dixit<br>
+				The LED Octapad is, at its heart, a MIDI controller, but specced up with 324 individually controlled RGB LEDs. This means the pads are dynamic, reacting in real time to your touch, while also sending MIDI signals to your computer to play, say a virtual drum machine, or a virtual piano.
+				The project has 2 microcontrollers: One to handle the touch responses, and one to handle the precarious task of handling 300+ neopixels. We've used a teensy LC for the former.An UNO handles 6 separate strips of neopixels - one in each hexagon. Only one Adafruit_NeoPixel object is instantiated though, and different strips are handled using Adafruit_Neopixel.setPin() method. The strip is arranged concentrically inside each hexagon.
+				<ul class="actions">
+					<li><a href="https://github.com/ERC-BPGC/LED-Octapad" class="button">Github Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	-->
 </section>
-
-
-
 </div>

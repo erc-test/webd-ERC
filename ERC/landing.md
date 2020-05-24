@@ -13,7 +13,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="https://erc-bpgc.github.io/projects/img/trotbot.jpeg" alt="" data-position="center center" />
+			<img src="trotbot.jpeg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -34,7 +34,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="https://erc-bpgc.github.io/projects/img/project3.png" alt="" data-position="top center" />
+			<img src="quad.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -54,7 +54,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="https://erc-bpgc.github.io/projects/img/modbot.jpeg" alt="" data-position="25% 25%" />
+			<img src="mod.jpeg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -73,7 +73,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="https://erc-bpgc.github.io/projects/img/project4.jpeg" alt="" data-position="25% 25%" />
+			<img src="led.jpeg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">

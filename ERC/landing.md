@@ -104,25 +104,5 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-<!--
-	<section>
-		<a href="https://github.com/ERC-BPGC/LED-Octapad" class="image">
-			<img src="quad.png" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>LED Octapad</h3>
-				</header>
-				<p>Team Lead: Abhishek Dixit<br>
-				The LED Octapad is, at its heart, a MIDI controller, but specced up with 324 individually controlled RGB LEDs. This means the pads are dynamic, reacting in real time to your touch, while also sending MIDI signals to your computer to play, say a virtual drum machine, or a virtual piano.
-				The project has 2 microcontrollers: One to handle the touch responses, and one to handle the precarious task of handling 300+ neopixels. We've used a teensy LC for the former.An UNO handles 6 separate strips of neopixels - one in each hexagon. Only one Adafruit_NeoPixel object is instantiated though, and different strips are handled using Adafruit_Neopixel.setPin() method. The strip is arranged concentrically inside each hexagon.
-				<ul class="actions">
-					<li><a href="https://github.com/ERC-BPGC/LED-Octapad" class="button">Github Repo</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	-->
 </section>
 </div>

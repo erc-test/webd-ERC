@@ -86,6 +86,7 @@ nav-menu: true
 				</p>	
 			</div>
 		</div>
+		
 	</section>
 <section>
 		<a href="https://github.com/ERC-BPGC/Sketcher" class="image">

@@ -12,38 +12,47 @@ image: gp.jpeg
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Core Team 2020 - 2021</h1>
+			<h1>Crew Members 2020 - 2021</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Meet the members</h2>
-<p>Core team intro, duties etc</p>
+<h2 id="content">Meet the family ^_^ </h2>
+<!--<p>Core team intro, duties etc</p>-->
 <div class="row">
-	<div class="6u 12u$(small)">
-		<h3>PS1 SCAM</h3>
-		<p>Baki members ka bhi toda intro deta hai? like name mentions kardenge secondis ka,club unity represent hoti hai</p>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>PS1 SCAM</h3>
-		<p>Baki members ka bhi toda intro deta hai? like name mentions kardenge secondis ka,club unity represent hoti hai</p>
+	<div class="12u 12u$(small)">
+		<h3>We are a body of 100+ students </h3>
+		<p>ABC, XYZ, asd,as,sdsd,asfok,afa,asdas,fasfas,fasfasf,asfasfas,fasfasf,asf,aq,fqw,f
+			ABC, XYZ, asd,as,sdsd,asfok,afa,asdas,fasfas,fasfasf,asfasfas,fasfasf,asf,aq,fqw,f
+			ABC, XYZ, asd,as,sdsd,asfok,afa,asdas,fasfas,fasfasf,asfasfas,fasfasf,asf,aq,fqw,f
+			ABC, XYZ, asd,as,sdsd,asfok,afa,asdas,fasfas,fasfasf,asfasfas,fasfasf,asf,aq,fqw,f
+			ABC, XYZ, asd,as,sdsd,asfok,afa,asdas,fasfas,fasfasf,asfasfas,fasfasf,asf,aq,fqw,f
+			ABC, XYZ, asd,as,sdsd,asfok,afa,asdas,fasfas,fasfasf,asfasfas,fasfasf,asf,aq,fqw,f
+			ABC, XYZ, asd,as,sdsd,asfok,afa,asdas,fasfas,fasfasf,asfasfas,fasfasf,asf,aq,fqw,f		
+		</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>Atharv Sonwane</h3>
-		<p>Chief Coordinator<hr>
+		<p><a href="https://github.com/threewisemonkeys-as/">Chief Coordinator</a><hr>
 		<img src="at.jpg" alt="asleep come back later" height="70%" width="70%">
+		<br>
+		<a href="https://www.linkedin.com/in/atharv-sonwane-646413172/">Contact me !</a>
 		</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Tanmay Bhonsale</h3>
-		<p>Research Head<hr>
+		<p><a href="https://github.com/DangerousTim">Research Head</a><hr>
 			<img src="tanmay.png" alt="asleep come back later" height="70%" width="70%">
+			<br>
+		<a href="https://github.com/DangerousTim">Contact me !</a>
 		</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Vedant Shah</h3>
-		<p>CTE Head <hr>
+		<p><a href="https://github.com/veds12">CTE Head</a> <hr>
 			<img src="vedant.jpg" alt="asleep come back later" height="55%" width="55%">
+			<br>
+		<a href="https://www.linkedin.com/in/vedant-shah-00547576/">Contact me !</a>
 		</p>
 	</div>
 </div>

@@ -85,8 +85,7 @@ nav-menu: true
 				The globe consisted of 2, 75 cm radius acrylic semicircular discs having LEDs along the perimeter of one of them. This setup was mounted vertically on a aluminium frame. The setup would be rotated using a high torque motor. The synchronised firing of LEDs created the illusion of an image.The programming that was involved allowed one to take any any image from the internet, divide it into a number of segments which the code could recognize and thus program the LEDs in that manner.
 				</p>	
 			</div>
-		</div>
-		
+		</div>		
 	</section>
 <section>
 		<a href="https://github.com/ERC-BPGC/Sketcher" class="image">
@@ -105,5 +104,22 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<a href="https://github.com/ERC-BPGC/LED-Octapad" class="image">
+			<img src="https://github.com/DangerousTim/LED-Octapad/raw/master/Media/nice2.jpg" alt="" data-position="top center" height="600" width="600" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>LED Octapad</h3>
+				</header>
+				<p>Team Lead: Abhishek Dixit<br>
+				The LED Octapad is, at its heart, a MIDI controller, but specced up with 324 individually controlled RGB LEDs. This means the pads are dynamic, reacting in real time to your touch, while also sending MIDI signals to your computer to play, say a virtual drum machine, or a virtual piano.
+				The project has 2 microcontrollers: One to handle the touch responses, and one to handle the precarious task of handling 300+ neopixels.
+					<li><a href="https://github.com/ERC-BPGC/LED-Octapad" class="button">Github Repo</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>	
 </section>
 </div>

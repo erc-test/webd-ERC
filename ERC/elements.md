@@ -36,7 +36,7 @@ nav-menu: true
 	<div class="4u 12u$(medium)">
 		<h3>Tanmay (Bhat?)</h3>
 		<p>Research Head<hr>
-			<img src="tanmay.jpeg" alt="asleep come back later" height="70%" width="70%">
+			<img src="tanmay.png" alt="asleep come back later" height="70%" width="70%">
 		</p>
 	</div>
 	<div class="4u$ 12u$(medium)">

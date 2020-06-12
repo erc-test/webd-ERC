@@ -1,13 +1,32 @@
 ---
 title: PROJECTS
 layout: landing
-description: 'Check out some of our previous work:-'
+description: 'Check out some of our previous work ^_^'
 image: led.jpg
 nav-menu: true
 ---
 
 <!-- Main -->
 <div id="main">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>Major Projects:</h2>
+		</header>
+		<p>
+		Some of our major projects are mentioned below.<br>
+		Do check out the archives also, you will definitely find out something of your interest (^_^ )<br> 
+		<a href="archive.erc to be inserted">
+		<img src="disk.png"
+			width="100" height="100" alt="floppy disk" style="vertical-align:middle">
+		</a>
+		<!--<a href="archive.erc to be inserted">Click here or on the flopp disk to access archive
+		</a>-->
+		</p>
+	</div>
+</section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
@@ -87,39 +106,5 @@ nav-menu: true
 			</div>
 		</div>		
 	</section>
-<section>
-		<a href="https://github.com/ERC-BPGC/Sketcher" class="image">
-			<img src="sketch.jpeg" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sketcher</h3>
-				</header>
-				<p>Team Lead: Atharva Sonwane<br>
-				Sketcher was one of the projects displayed in Quark 2020 by the Electronics and Robotics Club, BITS Goa. It is basically a full-scale prototype of a polargraph supporting multiple drawing styles such as stipples, Travelling Salesperson (implementation of the travelling salesperson problem to draw images), D2S,etc.
-				<ul class="actions">
-					<li><a href="https://github.com/ERC-BPGC/Sketcher" class="button">GitHub Repo</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="https://github.com/ERC-BPGC/LED-Octapad" class="image">
-			<img src="https://github.com/DangerousTim/LED-Octapad/raw/master/Media/nice2.jpg" alt="" data-position="top center" height="600" width="600" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>LED Octapad</h3>
-				</header>
-				<p>Team Lead: Abhishek Dixit<br>
-				The LED Octapad is, at its heart, a MIDI controller, but specced up with 324 individually controlled RGB LEDs. This means the pads are dynamic, reacting in real time to your touch, while also sending MIDI signals to your computer to play, say a virtual drum machine, or a virtual piano.
-				The project has 2 microcontrollers: One to handle the touch responses, and one to handle the precarious task of handling 300+ neopixels.
-					<li><a href="https://github.com/ERC-BPGC/LED-Octapad" class="button">Github Repo</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>	
 </section>
 </div>

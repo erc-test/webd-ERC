@@ -30,12 +30,12 @@ image: gp.jpeg
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>Atharv Sonwane</h3>
-		<p>Club Coordinator<hr>
+		<p>Chief Coordinator<hr>
 		<img src="at.jpg" alt="asleep come back later" height="70%" width="70%">
 		</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Tanmay (Bhat?)</h3>
+		<h3>Tanmay Bhonsale</h3>
 		<p>Research Head<hr>
 			<img src="tanmay.png" alt="asleep come back later" height="70%" width="70%">
 		</p>
@@ -43,7 +43,7 @@ image: gp.jpeg
 	<div class="4u$ 12u$(medium)">
 		<h3>Vedant Shah</h3>
 		<p>CTE Head <hr>
-			<img src="vedant.jpg" alt="asleep come back later" height="70%" width="70%">
+			<img src="vedant.jpg" alt="asleep come back later" height="55%" width="55%">
 		</p>
 	</div>
 </div>
@@ -72,7 +72,7 @@ image: gp.jpeg
 				<td><a href="https://hardesh.github.io/">Personal Portfolio</a></td>
 			</tr>
 			<tr>
-				<td>Sub Coordinator</td>
+				<td>Chief Coordinator</td>
 				<td>Tejas Rane</td>
 				<td><a href="https://www.linkedin.com/in/tejas-rane-359590149/">LinkedIn</a></td>
 			</tr>

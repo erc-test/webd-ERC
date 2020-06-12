@@ -61,34 +61,39 @@ nav-menu: true
 			<tr>
 				<th>POR</th>
 				<th>Name</th>
-				<th>Link, github or linkedin to be set</th>
+				<th>Contact Us</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
-				<td>Item1</td>
-				<td>Harshal</td>
-				<td>abc</td>
+				<td>CTE Head</td>
+				<td>Harshal Deshpande</td>
+				<td><a href="https://hardesh.github.io/">Personal Portfolio</a></td>
 			</tr>
 			<tr>
-				<td>Item2</td>
-				<td>Tejas</td>
-				<td>aca</td>
+				<td>Sub Coordinator</td>
+				<td>Tejas Rane</td>
+				<td><a href="https://www.linkedin.com/in/tejas-rane-359590149/">LinkedIn</a></td>
 			</tr>
 			<tr>
-				<td>Item3</td>
-				<td> dont know name</td>
-				<td>as</td>
+				<td>Sub Coordinator</td>
+				<td>Rishikesh Vanarse</td>
+				<td><a href="https://www.linkedin.com/in/rishikesh-vanarse-8032aa169/">LinkedIn</a></td>
 			</tr>
 			<tr>
-				<td>Item4</td>
-				<td>sdadsad</td>
-				<td>asd</td>
+				<td>Technical Head</td>
+				<td>Prathmesh Thorwe</td>
+				<td><a href="https://www.linkedin.com/in/prathmesh-thorwe-b76469153/">LinkedIn</a></td>
 			</tr>
 			<tr>
-				<td>Item5</td>
-				<td>leasdpa</td>
-				<td>af</td>
+				<td>Mechanical Head</td>
+				<td>Aditya Phopale</td>
+				<td><a href="https://www.linkedin.com/in/aditya-phopale-666a7515b/">LinkedIn</a></td>
+			</tr>
+			<tr>
+				<td>Research Head</td>
+				<td>Mohit Gupta</td>
+				<td><a href="https://www.linkedin.com/in/mohit-sushil-gupta-7a3821184/">LinkedIn</a></td>
 			</tr>
 		</tbody>
 	</table>

@@ -41,7 +41,7 @@ image: gp.jpeg
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Tanmay Bhonsale</h3>
-		<p><a href="https://github.com/DangerousTim">Research Head</a><hr>
+		<p><a href="https://www.instructables.com/member/DangerousTim/">Research Head</a><hr>
 			<img src="tanmay.png" alt="asleep come back later" height="70%" width="70%">
 			<br>
 		<a href="https://github.com/DangerousTim">Contact me !</a>

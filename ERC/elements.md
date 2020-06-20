@@ -20,14 +20,16 @@ image: gp.jpeg
 <!--<p>Core team intro, duties etc</p>-->
 <div class="row">
 	<div class="12u 12u$(small)">
-		<h3>We are a body of 100+ students </h3>
-		<p>ABC, XYZ, asd,as,sdsd,asfok,afa,asdas,fasfas,fasfasf,asfasfas,fasfasf,asf,aq,fqw,f
-			ABC, XYZ, asd,as,sdsd,asfok,afa,asdas,fasfas,fasfasf,asfasfas,fasfasf,asf,aq,fqw,f
-			ABC, XYZ, asd,as,sdsd,asfok,afa,asdas,fasfas,fasfasf,asfasfas,fasfasf,asf,aq,fqw,f
-			ABC, XYZ, asd,as,sdsd,asfok,afa,asdas,fasfas,fasfasf,asfasfas,fasfasf,asf,aq,fqw,f
-			ABC, XYZ, asd,as,sdsd,asfok,afa,asdas,fasfas,fasfasf,asfasfas,fasfasf,asf,aq,fqw,f
-			ABC, XYZ, asd,as,sdsd,asfok,afa,asdas,fasfas,fasfasf,asfasfas,fasfasf,asf,aq,fqw,f
-			ABC, XYZ, asd,as,sdsd,asfok,afa,asdas,fasfas,fasfasf,asfasfas,fasfasf,asf,aq,fqw,f		
+		<h3>We are a body of 100+ students ! </h3>
+		<h4>Notable Crew members:</h4>
+		<p> <a href="https://www.linkedin.com/in/abhishek-dixit-ba8497185">Abhishek Dixit</a>
+			<a href="https://www.linkedin.com/in/vishal-singh-b51b52158/">Vishal Singh</a><br>
+			<a href="https://www.linkedin.com/in/aditya-bidwai-27980016b/">Aditya Bidwai</a>
+			<a href="https://in.linkedin.com/in/eash-vrudhula-a11b64170">Eash Vrudhula</a><br>
+			<a href="https://www.linkedin.com/in/advait-kulkarni-5574b21aa">Advait Kulkarni</a>
+			<a href="https://www.linkedin.com/in/shivangi-gupta-3429aa8b">Shivangi Gupta</a><br>
+			<a href="http://www.linkedin.com/in/anirudha-shrinivas-87a3811b0">Anirudha Shrinivas</a>
+			<a href="https://www.linkedin.com/in/mohit-chaudhari-759130171/">Mohit Chaudhari</a><br>		
 		</p>
 	</div>
 	<!-- Break -->
@@ -60,7 +62,7 @@ image: gp.jpeg
 <hr class="major" />
 
 <!-- Elements -->
-<h2 id="elements">Previous heads</h2>
+<h2 id="elements">Former Crew members:</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 

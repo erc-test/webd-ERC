@@ -18,7 +18,7 @@ nav-menu: true
 		<p>
 		Some of our major projects are mentioned below.<br>
 		Do check out the archives also, you will definitely find out something of your interest (^_^ )<br> 
-		<a href="archive.erc to be inserted">
+		<a href="archive.html">
 		<img src="disk.png"
 			width="100" height="100" alt="floppy disk" style="vertical-align:middle">
 		</a>
@@ -104,7 +104,7 @@ nav-menu: true
 				The globe consisted of 2, 75 cm radius acrylic semicircular discs having LEDs along the perimeter of one of them. This setup was mounted vertically on a aluminium frame. The setup would be rotated using a high torque motor. The synchronised firing of LEDs created the illusion of an image.The programming that was involved allowed one to take any any image from the internet, divide it into a number of segments which the code could recognize and thus program the LEDs in that manner.
 				</p>	
 				<ul class="actions">
-					<li><a href="insert archive link" class="button">Check out the Archives as well!!</a></li>
+					<li><a href="archive.html" class="button">Check out the Archives as well!!</a></li>
 				</ul>
 			</div>
 		</div>		
